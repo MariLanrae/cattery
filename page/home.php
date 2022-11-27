@@ -17,7 +17,7 @@
 	<header class="header">
 		<div class="container">
 			<div class="header-row">
-				<div class="header-logo"><a href="index.html"><img src="C:\Users\chern\OneDrive\Изображения\logo1.png"
+				<div class="header-logo"><a href="index.html"><img src="img/logo1.png"
 							alt="logo"></a></div>
 				<nav class="header-nav">
 					<ul>
@@ -47,7 +47,7 @@
 								<a href="#" class="btn">Написать нам</a>
 							</div>
 						</div>
-						<div class="home-img"><img src="C:\Users\chern\OneDrive\Изображения\Ng0MuMI80O4 1.png"
+						<div class="home-img"><img src="img/Ng0MuMI80O4 1.png"
 								alt="home-img"></div>
 					</div>
 				</div>
@@ -84,7 +84,7 @@
 								Так же она мягче, чем у короткошёрстных "британцев", плюшевая,
 								"встает" от тела. Хвост пушистый и полный, что подчеркивает красоту кота.</p>
 						</div>
-						<div class="frame-2-img"><img src="C:\Users\chern\OneDrive\Рабочий стол\фото.png"></div>
+						<div class="frame-2-img"><img src="img/фото.png"></div>
 					</div>
 				</div>
 			</div>
@@ -95,7 +95,7 @@
 				<div class="frame-3">
 					<div class="frame-3-cont">
 						<div class="frame-3-img"><img
-								src="C:\Users\chern\OneDrive\Рабочий стол\Новая папка\сайт питомник черноморец\картинка.png"
+								src="img/Новая папка\сайт питомник черноморец\картинка.png"
 								alt=""></div>
 						<div class="frame-3-text">
 							<h1 class="frame-3-info">О нашем питомнике</h1>
@@ -128,10 +128,10 @@
 			<div class="container">
 				<div class="sertificat-1-2">
 					<div class="sertificat-1">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\сертификат.png" alt="">
+						<img src="img/сертификат.png" alt="">
 					</div>
 					<div class="sertificat-2">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\регистрация.png" alt="">
+						<img src="img/регистрация.png" alt="">
 					</div>
 				</div>
 			</div>

@@ -17,7 +17,7 @@
 	<header class="header">
 		<div class="container">
 			<div class="header-row">
-				<div class="header-logo"><a href="index.html"><img src="C:\Users\chern\OneDrive\Изображения\logo1.png"
+				<div class="header-logo"><a href="index.html"><img src="img/logo1.png"
 							alt="logo"></a></div>
 				<nav class="header-nav">
 					<ul>
@@ -104,10 +104,10 @@
 				<div class="heading-3">
 					<p>Как же это работает?</p>
 					<div class="headind-3-table">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\блок 1.png" alt="">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\блок 2.png" alt="">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\блок 3.png" alt="">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\блок 4.png" alt="">
+						<img src="img/блок 1.png" alt="">
+						<img src="img/блок 2.png" alt="">
+						<img src="img/блок 3.png" alt="">
+						<img src="img/блок 4.png" alt="">
 					</div>
 					<div class="heading-3-text">
 						<p align="center">Именно так, Банку нужно всего две минуты для принятия решения
@@ -117,9 +117,9 @@
 						<p>Что же происходит потом?</p>
 					</div>
 					<div class="heading-4-table">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\1 блок 2 схема.png" alt="">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\2 блок 2 схема.png" alt="">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\3 блок 2 схема.png" alt="">
+						<img src="img/1 блок 2 схема.png" alt="">
+						<img src="img/2 блок 2 схема.png" alt="">
+						<img src="img/3 блок 2 схема.png" alt="">
 					</div>
 					<div class="heading-4-text">
 						<p>Это действительно <span>УНИКАЛЬНОЕ</span> предложение!</p>
@@ -128,8 +128,8 @@
 						<p>Параметры кредита:</p>
 					</div>
 					<div class="heading-4-table">
-						<img class="credit" src="C:\Users\chern\OneDrive\Рабочий стол\срок кредита.png" alt="">
-						<img src="C:\Users\chern\OneDrive\Рабочий стол\сумма кредита.png" alt="">
+						<img class="credit" src="img/срок кредита.png" alt="">
+						<img src="img/сумма кредита.png" alt="">
 					</div>
 					<div class="heading-4-text-3">
 						<p>Параметры рассрочки:</p>

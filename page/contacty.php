@@ -17,7 +17,7 @@
 	<header class="header">
 		<div class="container">
 			<div class="header-row">
-				<div class="header-logo"><a href="index.html"><img src="C:\Users\chern\OneDrive\Изображения\logo1.png"
+				<div class="header-logo"><a href="index.html"><img src="img/logo1.png"
 							alt="logo"></a></div>
 				<nav class="header-nav">
 					<ul>
@@ -46,7 +46,7 @@
 					<div class="fio">
 						<div class="fio-info">
 							<div class="fio-img">
-								<img src="C:\Users\chern\OneDrive\Рабочий стол\котик.png" alt="">
+								<img src="img/котик.png" alt="">
 							</div>
 							<div class="fio-text">
 								<p class="content-text">Черноморец Светлана Викторовна</p>
@@ -54,7 +54,7 @@
 						</div>
 						<div class="loc">
 							<div class="loc-img">
-								<img src="C:\Users\chern\OneDrive\Рабочий стол\локация.png" alt="">
+								<img src="img/локация.png" alt="">
 							</div>
 							<div class="loc-text">
 								<p class="content-text">город Ейск</p>
@@ -64,7 +64,7 @@
 					<div class="gmail">
 						<div class="tel">
 							<div class="tel-img">
-								<img src="C:\Users\chern\OneDrive\Рабочий стол\звонок.png" alt="">
+								<img src="img/звонок.png" alt="">
 							</div>
 							<div class="tel-text">
 								<p class="content-text">+7-912-146-36-85</p>
@@ -72,7 +72,7 @@
 						</div>
 						<div class="gmail-info">
 							<div class="gmail-img">
-								<img src="C:\Users\chern\OneDrive\Рабочий стол\почта.png" alt="">
+								<img src="img/почта.png" alt="">
 							</div>
 							<div class="gmail-text">
 								<p class="content-text">svetachernomorets77@gmail.com</p>
@@ -86,7 +86,7 @@
 				<div class="sots-seti">
 					<div class="inst">
 						<div class="inst-img">
-							<img src="C:\Users\chern\OneDrive\Рабочий стол\инста.png" alt="">
+							<img src="img/инста.png" alt="">
 						</div>
 						<div class="inst-text">
 							<p class="content-text">@chernomorets_cattery</p>
@@ -94,7 +94,7 @@
 					</div>
 					<div class="wa">
 						<div class="wa-img">
-							<img src="C:\Users\chern\OneDrive\Рабочий стол\ватсап.png" alt="">
+							<img src="img/ватсап.png" alt="">
 						</div>
 						<div class="wa-text">
 							<p class="content-text">+7-912-146-36-85</p>
@@ -102,7 +102,7 @@
 					</div>
 					<div class="tg">
 						<div class="tg-img">
-							<img src="C:\Users\chern\OneDrive\Рабочий стол\тг.png" alt="">
+							<img src="img/тг.png" alt="">
 						</div>
 						<div class="tg-text">
 							<p class="content-text">+7-912-146-36-85</p>

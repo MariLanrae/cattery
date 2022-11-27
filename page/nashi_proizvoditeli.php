@@ -17,7 +17,7 @@
 	<header class="header">
 		<div class="container">
 			<div class="header-row">
-				<div class="header-logo"><a href="index.html"><img src="C:\Users\chern\OneDrive\Изображения\logo1.png"
+				<div class="header-logo"><a href="index.html"><img src="img/logo1.png"
 							alt="logo"></a></div>
 				<nav class="header-nav">
 					<ul>
@@ -40,13 +40,13 @@
 					<h1 class="proizvoditeli-heading-text">Наши производители</h1>
 				</div>
 				<div class="archi">
-					<img src="C:\Users\chern\OneDrive\Рабочий стол\арчи.png" alt="">
+					<img src="img/арчи.png" alt="">
 				</div>
 				<div class="vika">
-					<img src="C:\Users\chern\OneDrive\Рабочий стол\вика.png" alt="">
+					<img src="img/вика.png" alt="">
 				</div>
 				<div class="lyusya">
-					<img src="C:\Users\chern\OneDrive\Рабочий стол\люся.png" alt="">
+					<img src="img/люся.png" alt="">
 				</div>
 			</div>
 		</section>
