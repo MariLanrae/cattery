@@ -17,16 +17,16 @@
 	<header class="header">
 		<div class="container">
 			<div class="header-row">
-				<div class="header-logo"><a href="index.html"><img src="img/logo1.png"
+				<div class="header-logo"><a href="home"><img src="img/logo1.png"
 							alt="logo"></a></div>
 				<nav class="header-nav">
 					<ul>
-						<li><a href="index.html">Главная</a></li>
-						<li><a href="nashi_proizvoditeli.html">Наши производители</a></li>
-						<li><a href="nashi_cotyata.html">Наши котята</a></li>
-						<li><a href="usloyiya_rezerva_i_prodaji.html">Условия резерва и продажи</a></li>
+						<li><a href="home">Главная</a></li>
+						<li><a href="nashi_proizvoditeli">Наши производители</a></li>
+						<li><a href="nashi_cotyata">Наши котята</a></li>
+						<li><a href="usloyiya_rezerva_i_prodaji">Условия резерва и продажи</a></li>
 						<li><a href="#">Котогалерея</a></li>
-						<li><a href="contacty.html">Контакты</a></li>
+						<li><a href="contacty">Контакты</a></li>
 					</ul>
 				</nav>
 			</div>
